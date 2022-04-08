@@ -7,6 +7,12 @@
     "lint": "vue-cli-service lint",
     "backend": "node backend/index.js -b",
     "start": "node backend/index.js"
+    
+    {
+  "engines": {
+    "node": ">=0.14.2 <16"
+  }
+}
   },
   "dependencies": {
     "@chenfengyuan/vue-countdown": "^1.1.5",
@@ -27,7 +33,6 @@
     "mongoose": "^6.1.4",
     "noblox": "^4.8.5",
     "noblox.js": "^4.13.1",
-    "node": ">=0.10.3 <16",
     "node-cache": "^5.1.2",
     "ora": "^3.4.0",
     "vue": "^2.6.14",
