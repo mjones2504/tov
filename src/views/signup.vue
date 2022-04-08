@@ -3,7 +3,7 @@
     <v-sheet color="grey lighten-2" height="200" style="width: 100%"> </v-sheet>
     <v-container class="mt-n10 mx-auto">
       <v-card min-width="200px" max-width="600px" outlined class="mt-n3 mx-auto">
-        <v-card-title class="mb-n5"> Lets get started! </v-card-title>
+        <v-card-title class="mb-n5"> Hi Coastal employee, let's get started! </v-card-title>
         <v-stepper elevation="0" v-model="e1">
           <v-stepper-items>
             <v-stepper-content class="mx-n2 mt-n6" step="1">
