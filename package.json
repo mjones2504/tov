@@ -26,6 +26,7 @@
     "express": "^4.17.2",
     "express-ws": "^5.0.2",
     "inquirer": "^7.3.3",
+    "link-preview-generator": "^1.1.0",
     "lodash": "^4.17.21",
     "minimist": "^1.2.5",
     "mongoose": "^6.1.4",
